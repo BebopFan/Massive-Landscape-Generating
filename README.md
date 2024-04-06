@@ -41,7 +41,13 @@ Pictures below present the qualitative experimental results on 1024×2048 images
 
 ### Comparative Overview of Image Processing Results
 
-Results of the proposed method, inpainting and outpainting methods. The comparison images from the ReGo experiment have a resolution of 1024x512, while the resolutions of the other images being compared are 1024x1024.
+Results of the proposed method, inpainting and outpainting methods. The first column is the sample texture, while the second column is the target terrain.
+
+![Long Bar Experiment](./pic/1.png)
+
+### Detailed Visual Overview of Image Processing Results
+
+The following images provide a detailed visual overview of the aforementioned images. The comparison images from the ReGo experiment have a resolution of 1024x512, while the resolutions of the other images being compared are 1024x1024.
 | Model |Image1|
 |:--------:|:--------:|
 | GT       | ![GC1](./pic/in-out/GT/-29.0217112,21.9509659_600_300_0.png) |
@@ -70,7 +76,7 @@ Results of the proposed method, inpainting and outpainting methods. The comparis
 |:--------:|:--------:|
 | GT       | ![GC1](./pic/in-out/GT/-12.6154685,18.9466741_900_300_0.png) |
 | GC       | ![GC1](./pic/in-out/gated-new/4.png) |
-| EC       | ![EC1](./pic/in-out/edge-new/-12.6154685,18.9466741_900_300_0.png) |
+| EC       | ![EC1](./pic/in-out/edge-new/1.png) |
 | ReGo | ![GraphCut1](./pic/in-out/rego-new/-12.6154685,18.9466741_900_300_0.png) |
 | Ours     | ![Ours1](./pic/in-out/ours/-12.6154685,18.9466741_900_300_0.png) |
 
