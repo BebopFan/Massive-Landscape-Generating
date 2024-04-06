@@ -7,16 +7,6 @@
 
 ![Long Bar Experiment](./pic/stitch.png)
 
-Results of the proposed method, inpainting and outpainting methods. The first column is the sample texture, while
-the second column is the target terrain.
-
-![Long Bar Experiment](./pic/1.png)
-
-Ablation experiments for weight map synthesis model, including different loss functions, decoder branches, and
-discriminator inputs. The red box in the lower right corner is a magnified view of a specific area.
-
-![Long Bar Experiment](./pic/2.png)
-
 ### The experimental results on 1024×2048 images
 
 Pictures below present the qualitative experimental results on 1024×2048 images. The 512×1024 images presented above are cropped from these 1024×2048 images for demonstration purposes.
