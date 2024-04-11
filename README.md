@@ -1,4 +1,4 @@
-# Generating Massive Landscape through Multi-layer Texture Mapping using Differentiable Rendering
+# Landscape Appearance Construction via Differentiable Rendering Based Terrain Weight Map Synthesis
 
 
 ### The experimental results on 512×1024 images
