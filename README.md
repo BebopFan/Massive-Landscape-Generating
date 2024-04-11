@@ -50,7 +50,6 @@ Results of the proposed method, inpainting and outpainting methods. The first co
 The following images provide a detailed visual overview of the aforementioned images. The comparison images from the ReGo experiment have a resolution of 1024x512, while the resolutions of the other images being compared are 1024x1024.
 | Model |Image1|
 |:--------:|:--------:|
-| GT       | ![GC1](./pic/in-out/GT/-29.0217112,21.9509659_600_300_0.png) |
 | GC       | ![GC1](./pic/in-out/gated-new/1.png) |
 | EC       | ![EC1](./pic/in-out/edge-new/-29.0217112,21.9509659_600_300_0.png) |
 | ReGo | ![GraphCut1](./pic/in-out/rego-new/-29.0217112,21.9509659_600_300_0.png)|
@@ -58,7 +57,6 @@ The following images provide a detailed visual overview of the aforementioned im
 
 | Model |Image2|
 |:--------:|:--------:|
-| GT       | ![GC1](./pic/in-out/GT/-7.470070_-77.208714_1500_0_0.png) |
 | GC       | ![GC1](./pic/in-out/gated-new/3.png) |
 | EC       | ![EC1](./pic/in-out/edge-new/-7.470070_-77.208714_1500_0_0.png) |
 | ReGo | ![GraphCut1](./pic/in-out/rego-new/-7.470070_-77.208714_1500_0_0.png) |
@@ -66,7 +64,6 @@ The following images provide a detailed visual overview of the aforementioned im
 
 | Model |Image3|
 |:--------:|:--------:|
-| GT       | ![GC1](./pic/in-out/GT/37.1961732_28.711534_300_0_0.png) |
 | GC       | ![GC1](./pic/in-out/gated-new/5.png) |
 | EC       | ![EC1](./pic/in-out/edge-new/37.1961732_28.711534_300_0_0.png) |
 | ReGo | ![GraphCut1](./pic/in-out/rego-new/37.1961732_28.711534_300_0_0.png) |
@@ -74,7 +71,6 @@ The following images provide a detailed visual overview of the aforementioned im
 
 | Model |Image4|
 |:--------:|:--------:|
-| GT       | ![GC1](./pic/in-out/GT/-12.6154685,18.9466741_900_300_0.png) |
 | GC       | ![GC1](./pic/in-out/gated-new/4.png) |
 | EC       | ![EC1](./pic/in-out/edge-new/1.png) |
 | ReGo | ![GraphCut1](./pic/in-out/rego-new/-12.6154685,18.9466741_900_300_0.png) |
@@ -82,7 +78,6 @@ The following images provide a detailed visual overview of the aforementioned im
 
 | Model |Image5|
 |:--------:|:--------:|
-| GT       | ![GC1](./pic/in-out/GT/-13.866279_-75.084183_0_0_3.png) |
 | GC       | ![GC1](./pic/in-out/gated-new/0.png) |
 | EC       | ![EC1](./pic/in-out/edge-new/-13.866279_-75.084183_0_0_3.png) |
 | ReGo | ![GraphCut1](./pic/in-out/rego-new/_0_0_0.png) |
@@ -90,7 +85,6 @@ The following images provide a detailed visual overview of the aforementioned im
 
 | Model |Image6|
 |:--------:|:--------:|
-| GT       | ![GC1](./pic/in-out/GT/-32.8313955,21.7528659_1200_300_0.png) |
 | GC       | ![GC1](./pic/in-out/gated-new/2.png) |
 | EC       | ![EC1](./pic/in-out/edge-new/-32.8313955,21.7528659_1200_300_0.png) |
 | ReGo | ![GraphCut1](./pic/in-out/rego-new/-32.8313955,21.7528659_1200_300_0.png) |
