@@ -4,6 +4,7 @@
 ### The 3D terrain scenes using our method
 
 Results of the 3D terrain scenes we constructed. As can be seen, there is a significant difference in texture resolution before and after using the weight map.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MK9H9dE12g4?si=MUU9UmzUT1bnYjuD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p align="center">
   <img src="./pic/demo/0.gif" width="45%" />
   <img src="./pic/demo/1.gif" width="45%" /> 
