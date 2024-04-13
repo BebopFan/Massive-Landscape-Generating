@@ -14,7 +14,7 @@ Results of the 3D terrain scenes we constructed. As can be seen, there is a sign
 
 To inherit the advantage of deep leaning based methods, and provide more surface details close to observer with acceptable hardware overhead, we introduce the texture splatting.
 
-[![Watch the video](./pic/stitch.png)](https://youtu.be/YbXISMrOThU)
+[![Watch the video](./pic/demo/22.png)](https://youtu.be/YbXISMrOThU)
 <table align="center" width="55%">
   <tr>
     <td align="left">w/ Texture Splatting</td>
